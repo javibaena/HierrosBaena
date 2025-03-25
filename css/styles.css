@@ -157,7 +157,6 @@ header {
     padding: 20px;
     align-items: center;
 }
-
 .sobreNosotros-img{
     margin-top: 20px;
     width: 100%;
@@ -362,6 +361,13 @@ footer p{
         width: 80%;
         height:300px;
         object-fit: contain;
+    }
+    .nuestro-servicios{
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: start;
+        align-items: center;
     }
 /*  */
 
